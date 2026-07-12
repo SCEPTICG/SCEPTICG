@@ -32,6 +32,34 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/SCEPTICG/ZSH-Configuracion"><b>ZSH-Configuracion</b></a> — portable Zsh setup for macOS and Linux</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SCEPTICG/SCEPTIC-NVIM"><b>SCEPTIC-NVIM</b></a> — my Neovim configuration</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SCEPTICG/SCEPTIC-VSCODE"><b>SCEPTIC-VSCODE</b></a> — my VS Code setup</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SCEPTICG/Windows-Terminal-Configuracion"><b>Windows-Terminal-Configuracion</b></a> — Windows Terminal configuration</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
+    </tr>
   </tbody>
 </table>
 
