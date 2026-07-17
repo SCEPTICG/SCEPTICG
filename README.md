@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/SCEPTICG/SCEPTIC-LAB"><b>SCEPTIC-LAB</b></a> — one-command Proxmox homelab</td>
+      <td><a href="https://github.com/SCEPTICG/SCEPTICLAB"><b>SCEPTICLAB</b></a> — one-command Proxmox homelab</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
