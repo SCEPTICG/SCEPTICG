@@ -1,76 +1,40 @@
-<h1>Hey, nice to see you 👋</h1>
+# Hello, I'm SCEPTICG
 
-<p>I'm SCEPTICG, a developer working with Linux and self-hosted infrastructure. Right now most of my time goes into <b>SCEPTIC-LAB</b>, a Proxmox homelab that goes from zero to running with a single command.</p>
+I build small tools for the things I use every day, and I like them to look good.
 
-<h3>Things I work with</h3>
-<p>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-<sub>Starting point, will change as the homelab grows.</sub>
+🐧 Linux user | 🏠 Self-hosting at home | 🎬 Anime watcher | 🛠️ Config tweaker
 
-<h3>Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🧪 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/SCEPTICG/SCEPTICLAB"><b>SCEPTICLAB</b></a> — one-command Proxmox homelab</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-LAB?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/SCEPTICG/ZSH-Configuracion"><b>ZSH-Configuracion</b></a> — portable Zsh setup for macOS and Linux</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/ZSH-Configuracion?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/SCEPTICG/SCEPTIC-NVIM"><b>SCEPTIC-NVIM</b></a> — my Neovim configuration</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-NVIM?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/SCEPTICG/SCEPTIC-VSCODE"><b>SCEPTIC-VSCODE</b></a> — my VS Code setup</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/SCEPTIC-VSCODE?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/SCEPTICG/Windows-Terminal-Configuracion"><b>Windows-Terminal-Configuracion</b></a> — Windows Terminal configuration</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SCEPTICG/Windows-Terminal-Configuracion?style=flat-square&labelColor=343b41" /></td>
-    </tr>
-  </tbody>
-</table>
+## Currently working on
 
-<h3>Writing</h3>
+<!-- ============================================================
+     PROJECTS: one card per project, newest or most important
+     first. To add one, copy a <picture> block and change the
+     repo name in its three URLs. The card takes the title,
+     description and social preview image from the repo itself
+     (Settings > General > Social preview on GitHub).
+     ============================================================ -->
 
-<h4>My latest posts <a href="https://medium.com/@scepticgames"><img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a></h4>
-<!-- BLOG-POST-LIST:START -->
-<ul>
-  <li><i>First articles coming soon — building SCEPTIC-LAB in the open.</i></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
+<a href="https://github.com/SCEPTICG/hikari-mpv">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svg.bookmark.style/api?url=https://github.com/SCEPTICG/hikari-mpv&mode=dark&style=horizontal" />
+    <img alt="hikari, a modern theme for the mpv video player" src="https://svg.bookmark.style/api?url=https://github.com/SCEPTICG/hikari-mpv&mode=light&style=horizontal" />
+  </picture>
+</a>
 
-<h3>GitHub activity</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=SCEPTICG&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+## My tech stack
+
+![Lua](https://img.shields.io/badge/-Lua-%232C2D72?style=flat-square&logo=lua&logoColor=ffffff)
+![PowerShell](https://img.shields.io/badge/-PowerShell-%23012456?style=flat-square)
+![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
+
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Talos](https://img.shields.io/badge/-Talos-%23FF7300?style=flat-square&logo=talos&logoColor=ffffff)
+![Argo CD](https://img.shields.io/badge/-Argo%20CD-%23EF7B4D?style=flat-square&logo=argo&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![Forgejo](https://img.shields.io/badge/-Forgejo-%23FB923C?style=flat-square&logo=forgejo&logoColor=ffffff)
+![mpv](https://img.shields.io/badge/-mpv-%23691F69?style=flat-square&logo=mpv&logoColor=ffffff)
+
